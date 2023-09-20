@@ -17,3 +17,5 @@ soup1 = BeautifulSoup(page.content, "html.parser")
 
 print(soup1)
 
+git checkout master
+git merge feature
